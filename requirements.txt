@@ -1,0 +1,6 @@
+streamlit
+chromadb==0.5.17
+langchain
+langchain_community
+openai
+pysqlite3-binary
